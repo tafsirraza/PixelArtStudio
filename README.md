@@ -1,5 +1,7 @@
 Wecome To Pixel Art Studio
 
+<img width="1920" height="1116" alt="screencapture-127-0-0-1-5500-pixel-canvas-app-public-index-html-2025-07-29-23_59_08" src="https://github.com/user-attachments/assets/928b82dc-b457-44bb-9e32-3b8870d7303e" />
+
 Hey there! Thanks for checking out my Pixel Art Studio project. 
 
 What is This?
